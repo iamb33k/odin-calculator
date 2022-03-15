@@ -1,0 +1,1 @@
+Calculator built from scratch to specifications from The Odin Project
